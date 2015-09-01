@@ -8,7 +8,9 @@ public class GitTester {
 		// TODO Auto-generated method stub
 		System.out.println("--test github--");
 		System.out.println("a");
-		System.out.println("b"); 
+		System.out.println("b");
+		//新增输出c
+		System.out.println("c");
 	}
 
 }

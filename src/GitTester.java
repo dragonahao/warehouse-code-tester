@@ -12,7 +12,7 @@ public class GitTester {
 		//新增输出c
 		System.out.println("c");
 		
- 啊打算发送地方
+ //啊打算发送地方
 	
 	 syso("不强制提交该如何一步一步的操作呢？");	
 		

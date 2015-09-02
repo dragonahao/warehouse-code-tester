@@ -13,13 +13,13 @@ public class GitTester {
 		System.out.println("c");
 		
 		
-		啊打算发送地方
+		//啊打算发送地方
 		
 		
-		撒旦发的
+		//撒旦发的
 		
-		
-		syso("瞎写");
+		//Git中 local file workspace是可以进行修改的
+		System.out.println("瞎写");
 	}
 
 }

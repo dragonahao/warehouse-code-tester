@@ -10,7 +10,7 @@ public class GitTester {
 		System.out.println("b");
 		//新增输出c
 		System.out.println("c"); 
-		System.out.println("远程修改，fetch到本地的origin");
+		System.out.println("fetch操作时取最新的文件，没有任何diff 和merge操作");
 	}
 
 }
